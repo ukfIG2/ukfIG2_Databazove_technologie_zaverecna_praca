@@ -1,0 +1,95 @@
+{
+    "name": "Clean & quiet apt home by the park",
+    "quest_included": "1",
+    "price": 149,
+    "minimum_nights": 1,
+    "availability": 365,
+    "number_of_reviews": 9,
+    "last_review": "2018-10-19",
+    "address": {
+        "state": "New York",
+        "country": "USA",
+        "city": "Manhattan",
+        "postal_code": "10018",
+        "longitude": -73.97237,
+        "latitude": 40.64749,
+        "neighborhood": "Kensington",
+        "borough": "Manhattan",
+        "street": "5th Avenue",
+        "number": "789"
+    },
+    "room_type": [
+        {
+            "room_type_name": "Entire home/apt",
+            "description": "Clean & quiet apt home by the park"
+        }
+    ],
+    "amenities": [
+        {
+            "amenity_name": "Wi-Fi"
+        }
+    ],
+    "host": {
+        "host_name": "Jennifer",
+        "host_response_time": "1 hour",
+        "host_response_rate": 98,
+        "host_listings_count": 2,
+        "address": {
+            "state": "New York",
+            "country": "USA",
+            "city": "Brooklyn",
+            "postal_code": "11201",
+            "longitude": -73.99403,
+            "latitude": 40.69048,
+            "neighborhood": "Brooklyn Heights",
+            "borough": "Brooklyn",
+            "street": "Montague Street",
+            "number": "123"
+        }
+    },
+    "listing_photos": [
+        {
+            "photo_url": "https://example.com/photo.jpg",
+            "description": "Living room"
+        }
+    ],
+    "reviews": [
+        {
+            "user": {
+                "first_name": "John",
+                "last_name": "Doe",
+                "birth_date": "1980-01-01",
+                "age": 41,
+                "gender": "M",
+                "phone": "+1 123 456 7890",
+                "email": "john.doe@example.com"
+            },
+            "rating": 4.5,
+            "comment": "Great place!",
+            "review_date": "2019-05-21"
+        }
+    ],
+    "booking": [
+        {
+            "user": {
+                "first_name": "Jane",
+                "last_name": "Doe",
+                "birth_date": "1985-01-01",
+                "age": 36,
+                "gender": "F",
+                "phone": "+1 123 456 7890",
+                "email": "jane.doe@example.com"
+            },
+            "check_in": "2022-01-01",
+            "check_out": "2022-01-07",
+            "no_quests": 2,
+            "payments": [
+                {
+                    "ammount": 149,
+                    "payment_date": "2022-01-01",
+                    "payment_method": "Credit Card"
+                }
+            ]
+        }
+    ]
+}
