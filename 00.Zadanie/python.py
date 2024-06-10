@@ -15,4 +15,4 @@ def create_new_csv_file(input_filename, output_filename):
         print("File not found!")
 
 # Call the function to create the new CSV file
-create_new_csv_file("airbnb_NYC.csv", "newFile.csv")
+create_new_csv_file("airbnb_NYC.csv", "vycistene_airbnb_NYC.csv")
